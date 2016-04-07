@@ -17,7 +17,7 @@ This repository contains following simulators:
 
 
 
---Instuctions--
+--Instuctions--<H1>
 
 1]If you are having trouble running project,then delete build Directory and Fresh build the project.
 
@@ -28,6 +28,8 @@ This repository contains following simulators:
 4] UI is best viewd in 1360x720 (16:9) Resolution.
 
 
-Developers: Niranjan Rathod and Ritesh Pallod.
+
+
+Developers: Niranjan Rathod & Ritesh Pallod.
 
 UI Designer: Hrishikesh Tele
