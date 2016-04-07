@@ -27,6 +27,9 @@ This repository contains following simulators:
 
 4] UI is best viewd in **1360x720 (16:9)** Resolution.
 
+5]Thes applications are rapidly built within 2 days so they dont have compiler support for 8279 and 8255.
+  So Only type valid codes. 8251 and 8253 have compiler support to some extent. 
+
 
 
 
