@@ -17,7 +17,7 @@ This repository contains following simulators:
 
 
 
---Instuctions--<H1>
+<H1>--Instuctions--<\H1>
 
 1]If you are having trouble running project,then delete build Directory and Fresh build the project.
 
