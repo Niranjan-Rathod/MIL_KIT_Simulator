@@ -19,17 +19,20 @@ This repository contains following simulators:
 
 #--Instuctions--#
 
-1]If you are having trouble running project,then delete build Directory and Fresh build the project.
+1]If you are having trouble running project,then **delete** build Directory and **Fresh build** the project.
 
-2] ***Important: Copy all types of image files from project Directory to respective Build directory.
+2] ***Important: **Copy** all types of **image** files from project Directory to respective **Build** directory.
 
 3]Video Tutorials are Provided in Sample codes and Videos Folder.
 
-4] UI is best viewd in 1360x720 (16:9) Resolution.
+4] UI is best viewd in **1360x720 (16:9)** Resolution.
 
 
 
 
-Developers: Niranjan Rathod & Ritesh Pallod.
 
-UI Designer: Hrishikesh Tele
+
+-------------------------------------------------------------------
+Developers:*Niranjan Rathod & Ritesh Pallod.*
+
+UI Designer: *Hrishikesh Tele*
