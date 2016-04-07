@@ -1,0 +1,16 @@
+------------------------------------------------------
+RIGHT ENTRY
+-------------------------------------------------------
+0000:CCCF MOV CL, 08
+0000:CCD1 MOV AL, 10
+0000:CCD3 OUT 31, AL
+0000:CCD5 MOV BX, 1000
+0000:CCD8 MOV AL, [BX]
+0000:CCDA CALL 4444
+0000:CCDD OUT 30, AL
+0000:CCDF INC BX
+0000:CCE0 DEC CL
+0000:CCE2 JNZ CCD8
+0000:CCE4 INT 3
+
+
