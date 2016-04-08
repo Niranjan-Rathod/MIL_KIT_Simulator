@@ -29,6 +29,10 @@ This repository contains following simulators:
 
 5]Thes applications are rapidly built within 2 days so they dont have compiler support for 8279 and 8255.
   So Only type valid codes. 8251 and 8253 have compiler support to some extent. 
+  
+6]**Dependencies**: QT-on Linux (Ubuntu 14.04 and Fedora 22 are Tested)
+
+7]We will be realeasing Improved Version with Compiler support soon.
 
 
 
