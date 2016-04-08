@@ -47,6 +47,6 @@ UI Designer: *Hrishikesh Tele*
 
 
 +
- +
- +[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aaryanUV/mil_kit_simulator/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
- +
++
++[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/aaryanUV/mil_kit_simulator/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
++
